@@ -15,31 +15,8 @@ I trained the model on computer-generated shapes, then tested it with my own han
 
 ## 📁 What's inside this repository?
 
-200101_CNN_Assignment/
-│
-├── dataset/ # My hand-drawn shapes (13 photos)
-│ ├── circle_1.jpeg
-│ ├── circle_2.jpeg
-│ ├── triangle_4.jpeg
-│ ├── square_7.jpeg
-│ └── ... (more images)
-│
-├── training_data/ # Training images
-│ ├── circle/ # Circle images for training
-│ ├── square/ # Square images for training
-│ └── triangle/ # Triangle images for training
-│
-├── model/ # Saved model
-│ └── 200101.pth # My trained model weights
-│
-├── output/ # All result images
-│ ├── prediction.png # Predictions on my photos
-│ ├── accuracy.png # Training graphs
-│ ├── confusion_matrix.png # Confusion matrix
-│ └── visual_error.png # Wrong predictions
-│
-├── 200101.ipynb # Main notebook (all code here)
-└── README.md # You are reading this!
+<img width="496" height="661" alt="image" src="https://github.com/user-attachments/assets/e0acd977-8515-4717-aade-67792130f4b8" />
+
 
 ---
 
