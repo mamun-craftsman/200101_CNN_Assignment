@@ -101,7 +101,7 @@ This is normal! Even humans sometimes confuse shapes when they're not perfectly 
 It's super easy! Just follow these steps:
 
 ### Step 1: Open Google Colab
-- Go to this link: [Open in Colab](https://colab.research.google.com/github/mamun-craftsman/200101_CNN_Assignment/blob/main/200101.ipynb)
+- Go to this link: [Open in Colab]([https://colab.research.google.com/github/mamun-craftsman/200101_CNN_Assignment/blob/main/200101.ipynb](https://colab.research.google.com/drive/1FwfZxJ8puasdYVqBR74Y46rLla_6-ETd))
 - Or go to Google Colab website and select "GitHub" then paste my repository link
 
 ### Step 2: Run everything
